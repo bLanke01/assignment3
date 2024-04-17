@@ -69,7 +69,7 @@ a {
     color: black;
 }
 
-a:hover, .main, .footer {
+p a:hover {
     text-decoration: underline;
 }
 
